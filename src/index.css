@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'AvertaBold';
+  src: url('/fonts/averta-bold.otf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}

@@ -1,6 +1,6 @@
 
 import { useParams } from "react-router-dom";
-import { Meal } from "../../types/meal";
+import { Meal } from "../types/meal";
 import useRecipes from "../hooks/useRecepies";
 
 function MealDetail() {
